@@ -1,3 +1,4 @@
+![logo](https://github.com/abbasit10/abbasit10/blob/main/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">Future-Driven Data Analyst</h3>
 
