@@ -1,12 +1,12 @@
 ![logo](https://github.com/abbasit10/abbasit10/blob/main/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">Future-Driven Data Analyst</h3>
+<h3 align="center">Future-Driven Scientist</h3>
 
 <img align= "right" alt= "data" width= "400" src= "https://miro.medium.com/v2/resize:fit:679/0*JReDjt8autJLJVzq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasit10&label=Profile%20views&color=0e75b6&style=flat" alt="abbasit10" /> </p>
 
-- 🔭 I’m currently student of **Boston Institute of Analytics**
+- 🔭 I’m currently student of **University of Hull**
 
 - 📫 How to reach me **abdulbasit10122@gmail.com**
 
